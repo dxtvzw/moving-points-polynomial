@@ -748,7 +748,7 @@ int main() {
 
     // stress_check_poly_deg();
 
-    const int graph_type = 3;
+    const int graph_type = 1;
     const bool only_print = false;
     const real_t step_size = 20;
     const int mem_last = 10;
